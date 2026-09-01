@@ -1,0 +1,28 @@
+# Terraform state and cache
+*.tfstate
+*.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.tfstate
+.terraform.tfstate.backup
+.terraform.lock.hcl
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+terraform.tfvars
+
+# Crash logs and plan files
+crash.log
+*.plan
+
+# Overrides
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Local practice/example outputs (text files)
+practice/**/*.txt
+*.txt
