@@ -4,14 +4,7 @@ Short guided examples to practice core Terraform features. Each example is self-
 
 Exercises:
 - 01-providers: provider configuration
-- 02-variables: variables and defaults
-- 03-locals: local values
-- 04-resources: creating local files
-- 05-data-sources: using a data source (template)
-- 06-modules: simple module usage
-- 07-outputs: outputs (including sensitive outputs)
-- 08-lifecycle-and-provisioners: lifecycle and provisioner example
-- 09-sensitive: `local_sensitive_file` usage
+
 
 Example commands (run inside any `practice/NN-...` folder):
 ```bash
