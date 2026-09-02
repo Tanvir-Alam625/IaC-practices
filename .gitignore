@@ -26,3 +26,5 @@ override.tf.json
 # Local practice/example outputs (text files)
 practice/**/*.txt
 *.txt
+config.bat
+node_modules
