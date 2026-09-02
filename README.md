@@ -5,6 +5,7 @@ Short guided examples to practice core Terraform features. Each example is self-
 Exercises:
 - 01-providers: provider configuration
 - 02-variables: variables and defaults
+- 03-locals: local values
 
 Example commands (run inside any `/NN-...` folder):
 ```bash
